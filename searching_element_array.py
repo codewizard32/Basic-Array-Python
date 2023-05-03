@@ -19,3 +19,14 @@ for i in range(n):
 
 num = int(input("Please enter an element to search: "))
 search(arr, num)
+
+'''
+Enter number of elements: 5
+Enter the element 1: 12
+Enter the element 2: 34
+Enter the element 3: 56
+Enter the element 4: 78
+Enter the element 5: 90
+Please enter an element to search: 56
+Element found at position: 3
+'''
